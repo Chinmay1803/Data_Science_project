@@ -1,0 +1,11 @@
+Age,Income,LoanAmount,CreditScore,EmploymentYears,LoanPurpose,MaritalStatus,Default
+25,400000,200000,650,2,Personal,Single,0
+45,1200000,500000,720,15,Home,Married,0
+30,600000,300000,610,5,Education,Single,1
+50,1500000,700000,750,20,Business,Married,0
+28,500000,250000,580,3,Personal,Single,1
+35,900000,400000,680,8,Home,Married,0
+42,1100000,600000,640,12,Business,Married,0
+23,350000,180000,560,1,Education,Single,1
+48,1300000,650000,700,18,Home,Married,0
+33,750000,350000,630,6,Personal,Single,1
